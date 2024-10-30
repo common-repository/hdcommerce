@@ -1,0 +1,48 @@
+/* HDCommerce Dashboard Widget */
+
+#hdc_store_dashboard_widget .inside {
+	margin: 0;
+	padding: 0;
+}
+
+#hdc_store_dashboard_widget {
+	background: #395559;
+}
+
+#hdc_store_dashboard_widget h2.hndle,
+#hdc_store_dashboard_widget .toggle-indicator {
+	color: #fff;
+	font-weight: normal;
+}
+
+#hdc_store_dashboard {
+	background: #dedbdb;
+}
+
+#hdc_store_dashboard .hdc_l,
+#hdc_store_dashboard .hdc_r {
+	width: 50%;
+	float: left;
+}
+
+#hdc_store_dashboard .hdc_l {
+	background: #efefef;
+}
+
+#hdc_store_dashboard .hdc_l .hdc_row {
+	padding: 12px;
+	border-bottom: 1px solid #ddd;
+}
+
+#hdc_store_dashboard .hdc_r .hdc_row {
+	padding: 12px;
+}
+
+#hdc_store_dashboard .clear {
+	clear: both;
+	display: block;
+	font-size: 0;
+	height: 0;
+	line-height: 0;
+	width: 100%;
+}
